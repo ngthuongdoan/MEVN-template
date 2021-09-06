@@ -1,0 +1,20 @@
+{
+  "name": "se-cit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && yarn dev",
+    "server": "cd server && yarn dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hqnghi88/cit/"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hqnghi88/cit/issues/36"
+  },
+  "homepage": "http://se.cit.ctu.edu.vn",
+  "description": ""
+}
